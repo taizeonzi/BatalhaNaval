@@ -1,3 +1,6 @@
+## Projeto faculdade ADS - desafio em C
+
+
 # Desafio Batalha Naval - Três Níveis de Complexidade
 
 Bem-vindo ao desafio "Batalha Naval"! Este projeto desafiará suas habilidades de programação utilizando vetores e matrizes para simular um jogo de Batalha Naval, dividido em três níveis: Novato, Aventureiro e Mestre. Em cada nível, novas funcionalidades serão adicionadas, tornando o desafio progressivamente mais complexo.
